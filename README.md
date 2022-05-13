@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div id ="header" align="center">
+  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%"/>
+  <h2> Hey there 👋</h2>
+</div>
 <!--
 **yeonjaee/yeonjaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
