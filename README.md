@@ -1,5 +1,5 @@
-<div id ="header" align="center">
-  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="60%"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif](https://media.giphy.com/media/l0IybvANIIMMOHrUY/giphy.gif" width="50%"/>
 </div>
 <!--
 **yeonjaee/yeonjaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
