@@ -1,7 +1,6 @@
-<!-- <div id ="header" align="center">
+<div id ="header" align="center">
   <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="60%"/>
-  <h2> Hey there 👋</h2>
-</div> -->
+</div>
 <!--
 **yeonjaee/yeonjaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
