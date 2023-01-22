@@ -1,20 +1,23 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0IybvANIIMMOHrUY/giphy.gif" style="width:200px; height:200px;">
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yeonjaee&show_icons=true&theme=tokyonight"/>
+  
+
+  ### yeonjaee
+  
+  ---
+  <img align="left" width="50" src="https://media.giphy.com/media/llPemth4n4BJKtF3jQ/giphy.gif" />
+<a href="https://hits.seeyoufarm.com"><img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjaee-counter&count_bg=%23BA2649&title_bg=%231A6B54&icon=linux.svg&icon_color=%23EAE033&title=hits&edge_flat=false"/></a>
+
+  </div>
+
+
+<!--   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=tokyonight"/> -->
+
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/> -->
+  
+<!--   <a href="https://solved.ac/yeonjaee"><img alt="solved.ac" src="http://mazassumnida.wtf/api/generate_badge?boj=siriyay"/></a> -->
+ 
+
+  
 </div>
-<div align='center'>
-<span style="font-size:100px">🔒</span>  
-</div>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
