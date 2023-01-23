@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yeon-jaee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:00ccff&height=200&section=header&text=yeon-jaee&fontSize=64&&animation=fadeIn&fontAlignY=38&desc=:dog:me:cat:&descAlignY=51&descAlign=62)
 
 <p align='center'> 
 <img align='center' width= '150' src="https://media.giphy.com/media/llPemth4n4BJKtF3jQ/giphy.gif"/></p>
@@ -7,8 +7,8 @@
 <hr></hr>
 
 <p>
-<img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=yeonjaee&show_icons=true&theme=tokyonight"/>
-<img align="right" width = '50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api?username=yeonjaee&show_icons=true&theme=swift"/>
+<img align="right" width = '48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=swift&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 </p>
     
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:58a6ff&height=150&section=footer)
