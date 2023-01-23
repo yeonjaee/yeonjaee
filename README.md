@@ -22,8 +22,8 @@ typeScript, graphQL, typeOrm ...
 <p align='center'>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeonjaee&&show_icons=true&theme=swift"/>
 </p>
-<!-- <div align='center'>
+<!-- <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=swift&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
-</div> -->
+</p> -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:064273,100:58a6ff&height=120&section=footer)
