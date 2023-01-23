@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:064273,100:00ccff&height=150&section=header&text=🌊&nbsp;I'll&nbsp;be&nbsp;on&nbsp;my&nbsp;wave&nbsp;🌊&fontColor=FFFFFF&fontSize=32&&animation=fadeIn&fontAlignY=30&desc=&descAlignY=51&descAlign=62)
 <div align='center'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/800px-Irises-Vincent_van_Gogh.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/600px-Irises-Vincent_van_Gogh.jpg"/>
 </div>
 <div align='center'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjaee%2Fhit-counter&count_bg=%23BA2649&title_bg=%231A6B54&icon=linux.svg&icon_color=%23EAE033&title=hits&edge_flat=false"/>
