@@ -7,8 +7,8 @@
 <hr></hr>
 
 <p>
-<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api?username=yeonjaee&show_icons=true&theme=swift"/>
-<img align="right" width = '48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=swift&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=yeonjaee&show_icons=true&theme=swift"/>
+<img align="right" width = '47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&theme=swift&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 </p>
     
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:58a6ff&height=150&section=footer)
