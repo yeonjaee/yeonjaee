@@ -10,11 +10,9 @@
 <b>Hi there 👋</b>
 <br></br>
 <!-- <img align='center' width= '150' src="https://media.giphy.com/media/llPemth4n4BJKtF3jQ/giphy.gif"/><br></br> -->
-To be a <b><i>Full Stack web developer</i></b>
+
 <br></br>
-I'm learning Angular, Ionic,
-AWS, MySQL,
-typeScript, graphQL, typeOrm ...
+I'm learning AWS, Apollo GraphQL, TypeORM, Angular, Node, Ionic, TypeScript, Python ...
 <br></br>
 🐶 🐱 🚴‍ 🏃‍ 📱
 </div>
