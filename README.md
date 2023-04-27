@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:064273,100:00ccff&height=150&section=header&text=🌊&nbsp;I'll&nbsp;be&nbsp;on&nbsp;my&nbsp;wave&nbsp;🌊&fontColor=FFFFFF&fontSize=32&&animation=fadeIn&fontAlignY=30&desc=&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:064273,100:00ccff&height=150&section=header&text=🌊🌊&fontColor=FFFFFF&fontSize=32&&animation=fadeIn&fontAlignY=30&desc=&descAlignY=51&descAlign=62)
 <div align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/600px-Irises-Vincent_van_Gogh.jpg"/>
 </div>
@@ -7,7 +7,7 @@
 </div>
 <br></br>
 <div align='center'>
-<b>Hi there 👋</b>
+<b></b>
 <br></br>
 <!-- <img align='center' width= '150' src="https://media.giphy.com/media/llPemth4n4BJKtF3jQ/giphy.gif"/><br></br> -->
 
