@@ -2,13 +2,8 @@
 <div align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/600px-Irises-Vincent_van_Gogh.jpg"/>
 </div>
-<div align='center'>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjaee%2Fhit-counter&count_bg=%23BA2649&title_bg=%231A6B54&icon=linux.svg&icon_color=%23EAE033&title=hits&edge_flat=false"/>
-</div>
 <br></br>
 <div align='center'>
-<b></b>
-<br></br>
 <!-- <img align='center' width= '150' src="https://media.giphy.com/media/llPemth4n4BJKtF3jQ/giphy.gif"/><br></br> -->
 
 <br></br>
