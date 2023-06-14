@@ -23,7 +23,7 @@
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&layout=compact&theme=radical&exclude=Jupyter%20Notebook,html,scss,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,scss,css)
 
 ## 📫 Contact Me
 
