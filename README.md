@@ -1,7 +1,7 @@
 <!-- ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&layout=pie&theme=radical&hide=Jupyter%20Notebook,HTML,SCSS,CSS)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# Hi there! 👋
+# Hi there 👋
 
 ## 🔭 Current Projects
 
