@@ -23,10 +23,10 @@
 
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=yeonjaee&theme=radical)
 
-## 💻 Top Languages
+<!-- ## 💻 Top Languages -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,scss,css)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjaee&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,scss,css) -->
 
-## 📫 Contact Me
+<!-- ## 📫 Contact Me -->
 
 <!--[siriyay@naver.com](mailto:siriyay@naver.com)-->
